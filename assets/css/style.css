@@ -1,0 +1,63 @@
+.container{
+
+    background-color: wheat;
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+
+}
+
+
+button{
+
+    border-radius: 5px;
+    font-size: 30px;
+    padding: 20px;
+    border: none;
+    align-content: center;
+    display:block;
+    margin: auto;
+
+}
+
+#done{
+
+    background-color:turquoise;
+    display: none;
+    align-content: center;
+
+}
+
+#start{
+
+    background-color: violet;
+
+}
+
+button:hover{
+
+    border: 2px solid white;
+
+}
+
+button:active{
+
+    border: 2px solid green;
+
+}
+.left{
+
+    clear:both;
+    text-align: left;
+    margin-left: 5px;
+
+}
+
+.centered{
+
+text-align: center;
+    
+}
+
+
+
